@@ -1,86 +1,163 @@
-# Hi there 👋 I'm Vhutshilo Wade Mulaudzi  
-### Junior Full-Stack Developer | .NET & JavaScript Enthusiast | Cloud Explorer ☁️  
+# 🚀 VHUTSHILO WADE MULAUDZI
+### `> Full Stack Software Developer | Code Architect | Problem Solver`
 
-📍 Johannesburg, South Africa | 🌍 Open to Remote & Global Opportunities  
+<div align="center">
 
-> "Writing code is my canvas — I paint solutions that scale, serve, and simplify."  
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🌍 Based in Johannesburg, SA  ║  💼 Junior Full Stack Dev   ║
+║  🎓 CS Honours Graduate        ║  ☁️ Azure Certified         ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
----
-
-### 🚀 About Me  
-I’m a passionate **Full-Stack Software Developer** and **Computer Science Honours graduate**, turning complex problems into clean, scalable solutions. With a strong foundation in **.NET, Angular, Node.js, and cloud technologies**, I thrive in agile environments where code meets impact — especially in public sector systems that serve communities.  
-
-Currently building enterprise-grade applications at **CCG Systems**, where I maintain critical budgeting modules for government institutions and integrate real-world financial workflows with modern tech stacks.  
-
-When I'm not debugging Azure pipelines or crafting APIs, you’ll find me:  
-♟️ Outmaneuvering opponents in a chess match  
-⚽ Chasing goals on the football field  
-🍳 Experimenting with bold new recipes (latest win: peri-peri tofu bowls)  
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools  
-
-**Frontend:**  
-![Angular](https://img.shields.io/badge/-Angular-%23DD0031?logo=angular&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?logo=typescript&logoColor=white&style=flat)  
-
-**Backend:**  
-![.NET](https://img.shields.io/badge/-.NET-%23512BD4?logo=.net&logoColor=white&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?logo=node.js&logoColor=white&style=flat)  
-![C#](https://img.shields.io/badge/-C%23-%23239120?logo=c-sharp&logoColor=white&style=flat)  
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?logo=openjdk&logoColor=white&style=flat)  
-
-**Databases:**  
-![SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-%23CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&logoColor=white&style=flat)  
-
-**Cloud & DevOps:**  
-![Azure](https://img.shields.io/badge/-Microsoft_Azure-%23008AD7?logo=microsoft-azure&logoColor=white&style=flat)  
-![AWS](https://img.shields.io/badge/-AWS-%23FF9900?logo=amazon-aws&logoColor=white&style=flat)  
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-%23007ACC?logo=azure-devops&logoColor=white&style=flat)  
-
-**Mobile:**  
-![Xamarin](https://img.shields.io/badge/-Xamarin-%233498DB?logo=xamarin&logoColor=white&style=flat)  
-![Android](https://img.shields.io/badge/-Android-%233DDC84?logo=android&logoColor=white&style=flat)  
-![iOS](https://img.shields.io/badge/-iOS-%23A2AAAD?logo=apple&logoColor=white&style=flat)  
+## 🎯 **Current Mission**
+```javascript
+const vhutshilo = {
+    location: "Johannesburg, South Africa 🇿🇦",
+    currentRole: "Junior Software Developer @ CCG Systems",
+    mission: "Building scalable enterprise solutions that make a difference",
+    passions: ["Clean Code", "System Architecture", "Mobile Innovation"],
+    currentlyMastering: ["Microservices", "Cloud Architecture", "DevOps"],
+    funFact: "I turn coffee ☕ into enterprise applications"
+};
+```
 
 ---
 
-### 🌱 Currently Learning  
-- **Microservices Architecture** with Docker & Kubernetes  
-- **Advanced Cloud Patterns** on Azure (working toward AZ-204)  
-- **React Native** for high-performance cross-platform apps  
+## 🛠️ **Tech Arsenal**
 
-### 💡 What I Bring to the Table  
-- ✅ Clean, testable code guided by **OOP & Design Patterns**  
-- ✅ Experience in **Agile SDLC**, from requirements to deployment  
-- ✅ Passion for **public-sector tech** that improves transparency and efficiency  
-- ✅ Multilingual communicator (7+ languages!) — bridging tech and people  
+<div align="center">
 
----
+### **Backend Fortress**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 📬 Let’s Connect  
-I'm always open to discussing:  
-- Full-stack development roles  
-- Cloud-native application projects  
-- Tech for social impact  
+### **Frontend Magic**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-📧 **Email:** [wademulaudzi@gmail.com](mailto:wademulaudzi@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/vhutshilo-wade](https://www.linkedin.com/in/vhutshilo-wade.com)  
-🎮 **GitHub:** [github.com/VhutshiloMulaudzi.com](https://github.com/VhutshiloWade.com)  
+### **Mobile Universe**
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
----
+### **Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### ⚡ Fun Fact  
-I once built a church mobile app while learning Xamarin — and now it helps 500+ members stay connected. Tech + community = my sweet spot.  
-
-⭐ **Fun side project idea I’d love to build:** A multilingual civic engagement app for South African municipalities.  
+</div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VhutshiloMulaudzi&show_icons=true&theme=radical&card_width=400)
+## 📊 **Performance Metrics**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VhutshiloMulaudzi&layout=compact&theme=radical)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VhutshiloWade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VhutshiloWade&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+---
+
+## 🏆 **Achievement Unlocked**
+
+```diff
++ Microsoft Certified: Azure Fundamentals (AZ-900) ✅
++ Enterprise E-Budget Module Developer ✅  
++ Church Mobile App Creator (10k+ potential users) ✅
++ Microservices Architecture Contributor ✅
+```
+
+---
+
+## 🎮 **Current Quests**
+
+<div align="center">
+
+| 🔄 **Active Projects** | 📚 **Learning Path** | 🎯 **Next Level** |
+|:---:|:---:|:---:|
+| E-Budget Enterprise Module | Advanced Azure Services | Senior Full Stack Role |
+| Sage Integration Systems | Microservices Patterns | Cloud Architecture |
+| API Optimization | DevOps Practices | Team Leadership |
+
+</div>
+
+---
+
+## 💡 **Innovation Highlights**
+
+```csharp
+public class InnovativeProjects 
+{
+    private readonly List _achievements = new()
+    {
+        new Project("Enterprise E-Budget System", "Angular + .NET", "Production"),
+        new Project("Church Mobile App", "Xamarin", "10k+ Users"),
+        new Project("Sage ERP Integration", "RESTful APIs", "Enterprise Level"),
+        new Project("Scalable Microservices", ".NET + Azure", "Architecture Design")
+    };
+}
+```
+
+---
+
+## 🌟 **The Developer Behind The Code**
+
+<div align="center">
+
+*"I don't just write code; I architect solutions that scale, perform, and inspire."*
+
+**🎯 What drives me:**
+- Converting complex business requirements into elegant technical solutions
+- Building applications that genuinely improve people's lives
+- Continuous learning and staying ahead of technology curves
+- Mentoring and sharing knowledge with fellow developers
+
+</div>
+
+---
+
+## 📡 **Connect With The Future**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vhutshilo-wade.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wademulaudzi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VhutshiloWade)
+
+**📞 Let's Build Something Amazing:** `+27 67 012 1435`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 *"Ready to contribute to your next breakthrough project"*
+
+```javascript
+while (learning) {
+    code();
+    innovate();
+    deliver();
+}
+```
+
+**⭐ If my work inspires you, consider starring my repositories!**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=VhutshiloWade&color=blueviolet&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/VhutshiloWade?style=for-the-badge&color=orange)](https://github.com/VhutshiloWade?tab=followers)
+
+</div>
